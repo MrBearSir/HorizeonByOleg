@@ -1,3 +1,4 @@
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,6 +9,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/*Header*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -49,6 +51,7 @@ p {
     font-size: 16px;
 }
 
+/*Background Picture*/
 figure {
     height: 800px;
     width: 100%;
@@ -58,6 +61,7 @@ figure {
     background-position: center;
 }
 
+/*Main content to the left*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -74,6 +78,7 @@ figure {
     margin-left: 20px;
 }
 
+/*Benefits Section Right*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -119,6 +124,7 @@ article h2 {
     font-size: 36px;
 }
 
+/*Footer athe the bottom of the page*/
 footer {
     padding: 30px;
     clear: both;
